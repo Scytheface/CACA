@@ -1,2 +1,3 @@
-# CACA
-CodeQL Algorithmic Complexity Analysis
+# CodeQL Algorithmic Complexity Analysis
+Unfortunately, I must start this with an apology. This is because, as of yet, there is nothing else. I've started the work, but a constant stream of deadlines has forced delays. This will be thoroughly updated in the following few days. If that is not sufficient and this counts as missing a critical deadline, then I accept my fate.
+
